@@ -88,47 +88,38 @@ The forecast results provided:
 ### 📍 2. Comparative Analysis Dashboard
 Highlights top/bottom performing stores and store ranking based on total sales.
 
-![Comparative Dashboard](images/comparative_dashboard.png)
+![Comparative Dashboard](https://github.com/Menorah-Tee/Walmart-Sales-Forecasting/blob/main/Store%20Comparison.png.png)
 
 ---
 
 ### 📍 3. External Factors Dashboard
 Shows relationships between sales and economic indicators using scatter plots.
 
-![External Factors Dashboard](images/external_factors_dashboard.png)
+![External Factors Dashboard](https://github.com/Menorah-Tee/Walmart-Sales-Forecasting/blob/main/External-Factor-Analysis.png.png)
 
 ---
 
 ### 📍 4. Forecasting Dashboard
 Presents predicted future weekly sales trends using Power BI forecasting.
 
-![Forecasting Dashboard](images/forecasting_dashboard.png)
+![Forecasting Dashboard](https://github.com/Menorah-Tee/Walmart-Sales-Forecasting/blob/main/Demand_Forecasting.png.png)
 
----
 
 ## 📌 Tools & Technologies Used
 
 - Power BI – Data Cleaning (Power Query), Data Modeling, DAX, Forecasting, Interactive Dashboards  
 - Excel – Dataset formatting and initial review  
 
----
 
 ## 📁 Project Files
 
-📂 [Power BI File (.pbix)](#) *(Add your Power BI file link)*  
-📂 [Dataset File](#) *(Add your dataset link)*  
-📂 [Dashboard Screenshots](images/)  
+📂 [Power BI File ](https://app.powerbi.com/links/HgUNchX4aa?ctid=bed43307-4bf7-4101-9650-7cbaea2211f5&pbi_source=linkShare)
 
----
 
 ## 👋 Connect With Me
-
 Let’s connect and talk Data Analytics & Business Intelligence:
-
 - 💼 LinkedIn: [LinkedIn ](https://www.linkedin.com/in/tomisin-olatunde-30155a2ab)
 - 📧 Email: [Email me](tomisinmaryo@gmail.com)
-
----
 
 ⭐ If you found this project interesting, feel free to star this repository!
 Tracks weekly sales trends and key sales KPIs across all stores.
