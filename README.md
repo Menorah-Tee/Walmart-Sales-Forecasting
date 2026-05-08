@@ -83,9 +83,7 @@ The forecast results provided:
 ## 📌 Dashboards Included
 
 ### 📍 1. Sales Performance Dashboard
-![Sales Performance Dashboard](images/sales_performance_dashboard.png)
-
----
+![Sales Performance Dashboard](/walmart_dashboard_cover.png.png)
 
 ### 📍 2. Comparative Analysis Dashboard
 Highlights top/bottom performing stores and store ranking based on total sales.
